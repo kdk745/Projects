@@ -1,7 +1,6 @@
-CS303e Elements of Computing- created Spring, 2014 by Kayne Khoury
+CS303e Elements of Computing- created Spring, 2014
 
-CS313e Elements of Software Programming- created Fall, 2014 by Kayne Khoury & Juanito Taveras
-
+CS313e Elements of Software Programming- created Fall, 2014
 These are python projects from courses I attended at UT Austin.
 
 Inside the folders you can find code referring to projects relating to 
